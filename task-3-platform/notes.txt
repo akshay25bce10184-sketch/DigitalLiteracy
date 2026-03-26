@@ -1,0 +1,7 @@
+Task 3: Coding & Collaboration Platforms Report
+Platforms Used: HackerRank, Google Forms, and Google Sheets.
+Activity and Practice: In this task, I practiced both technical problem-solving and digital leadership. For the coding component, I used HackerRank to solve the "Python If-Else" challenge. This allowed me to practice conditional logic and ensure my code could pass multiple
+automated test cases, which is a fundamental skill for any CSE student.
+For the collaboration component, I built a "Digital Literacy Awareness Quiz" using Google Forms. I designed seven targeted questions to educate my peers on topics like Two-Factor Authentication (2FA), phishing defense, and software ethics. I also linked this form to a Google Sheet to automate the collection and organization of responses, demonstrating a streamlined workflow for data management.
+Academic Benefit: These tools will be vital to my academic success at VIT Bhopal. HackerRank provides a platform to sharpen the algorithmic thinking required for my core programming courses and future technical interviews. Meanwhile, mastering Google Workspace ensures I can lead group projects effectively, collect research data accurately, and present information in a structured, professional manner. Together, these platforms bridge the gap between individual technical ability and effective digital collaboration.
+Google form link : https://docs.google.com/forms/d/e/1FAIpQLScDy3-q_x7bVm8_gktCcASp8oRXAu9VeW9ffmEw2SvW6u_DmQ/viewform?usp=dialog
