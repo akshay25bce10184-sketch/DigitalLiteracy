@@ -64,7 +64,7 @@ digital-literacy-project/
 - Built a professional digital identity.
 
 ### 🔹 Task 3: Coding & Collaboration Platforms
-- Completed a beginner coding challenge (HackerRank/CodeChef).
+- Completed a beginner coding challenge on CodeChef.
 - Created a **Google Form Quiz** on digital literacy.
 
 📎 **Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLScDy3-q_x7bVm8_gktCcASp8oRXAu9VeW9ffmEw2SvW6u_DmQ/viewform?usp=dialog
